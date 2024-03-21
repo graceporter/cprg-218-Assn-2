@@ -37,7 +37,7 @@ body {
 
 /* Hero Banner Styles */
 .hero-banner {
-    background-image: url('heroimage.jpg');
+    background-image: url('../Assets/heroimage.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
